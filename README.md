@@ -1,7 +1,7 @@
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;  Edward Block  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=ff0000&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Edward+Block;Nice+to+meet+you" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=ff0000&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Edward;Nice+to+meet+you" />
 </h1>
 
 <p>Hello👋 I am Edward, a Blockchain developer, web developer and I am doing a lot with react | CSS | Js for more👇</p>
