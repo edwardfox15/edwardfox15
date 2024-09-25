@@ -37,6 +37,31 @@
     alt="Git"
     src="https://img.shields.io/badge/git-0c0c0c.svg?style=for-the-badge&logo=git&logoColor=white"
   />
+<img
+  alt="Node.js"
+  src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"
+/>
+<img
+  alt="Express.js"
+  src="https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"
+/>
+<img
+  alt="TypeScript"
+  src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+/>
+<img
+  alt="Solidity"
+  src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
+/>
+<img
+  alt="Hardhat"
+  src="https://img.shields.io/badge/hardhat-FCC624.svg?style=for-the-badge&logo=hardhat&logoColor=black"
+/>
+<img
+  alt="Ganache"
+  src="https://img.shields.io/badge/ganache-744528.svg?style=for-the-badge&logo=truffle&logoColor=white"
+/>
+
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Ways to contact us:
