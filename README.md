@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=ff0000&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Edward+Block;Nice+to+meet+you" />
 </h1>
 
-<p>Hello</p>
+<p>Hello👋 I am Edward, Blockchain developer, web developer and I am doing a lot with react | CSS | Js for more👇</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="26" /> Skills
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="30" /> Skills
 <p>
   <img
     alt="JavaScript"
