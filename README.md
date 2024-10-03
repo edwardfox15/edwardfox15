@@ -53,14 +53,7 @@
   alt="Solidity"
   src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
 />
-<img
-  alt="Hardhat"
-  src="https://img.shields.io/badge/hardhat-FCC624.svg?style=for-the-badge&logo=hardhat&logoColor=black"
-/>
-<img
-  alt="Ganache"
-  src="https://img.shields.io/badge/ganache-744528.svg?style=for-the-badge&logo=truffle&logoColor=white"
-/>
+
 
 </p>
 
